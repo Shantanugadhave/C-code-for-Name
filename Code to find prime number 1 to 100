@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int main() {
+
+int m
 for (int i = 2; i <= 100; i += 2) { console.log(i); }
     return 0;
 }
